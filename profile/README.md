@@ -4,6 +4,10 @@
 BudgetBuddy is a service that enables users to keep track of their budgeting in an AI-powered way! 
 Scan receipts to keep track of your transactions and create weekly or monthly budgets per category to track your spending!
 
+## Link
+
+[BudgetBuddy Webpage
+](https://team-skjem.github.io/budgetbuddy-frontend/)
 ### MVP
 - App + Website
 - Receipt scanning
